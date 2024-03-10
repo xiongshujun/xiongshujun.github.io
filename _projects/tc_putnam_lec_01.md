@@ -8,4 +8,4 @@ category: teaching
 related_publications: false
 ---
 
-Please refer to the document [here](https://drive.google.com/file/d/1EuylgVZLpSrpzwKVax8HCGYCxvZESjq9/view?usp=sharing)
+Please refer to the document [here](https://xiongshujun.github.io/assets/pdf/Spring_2023_Putnam_Seminar_Lecture_01.pdf)
