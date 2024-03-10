@@ -8,4 +8,4 @@ category: teaching
 related_publications: true
 ---
 
-Please refer to the document [here](assets\pdf\Spring_2023_Putnam_Seminar_Lecture_01.pdf)
+Please refer to the document [here](assets/pdf/Spring_2023_Putnam_Seminar_Lecture_01.pdf)
