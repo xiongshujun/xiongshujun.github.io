@@ -16,8 +16,7 @@
     {
       "name": "Litwin-Kumar Lab, Zuckerman Institute, Columbia University",
       "position": "Undergraduate Researcher",
-      "startDate": "Sep 2023",
-      "endDate": "Present",
+      "date": "Present",
       "highlights": ["Deep RL models of striatal differentiation", 
                       "High dimensional limit cycles in Sompolinsky models", 
                       "Undergraduate Liaison for the Zuckerman Institute"]
@@ -25,51 +24,44 @@
     {
       "name": "Machine Learning and Instrument Autonomy, NASA-JPL",
       "position": "Caltech SURF Intern",
-      "startDate": "Jun 2023",
-      "endDate": "Aug 2023",
+      "date": "Summer 2023",
       "highlights": ["Ensemble vision models for aerial methane detection"]
     },
     {
       "name": "Li Bing Lab, Chinese Academy of Sciences",
       "position": "Undergraduate Intern (remote)",
-      "startDate": "Sep 2022",
-      "endDate": "Dec 2022",
+      "date": "Fall 2022",
       "highlights": ["Ablation studies on encoder-decoder networks for unsupervised computer vision"]      
     },
     {
       "name": "MetaConscious Lab (Prof. Guangyu Robert Yang), MIT",
       "position": "Columbia College Summer Research Fellow",
-      "startDate": "May 2022",
-      "endDate": "Aug 2022",
+      "date": "Summer 2022",
       "highlights": ["Self-modeling and fear in deep RL models",
                       "Peer mentor for Broad Summer Research Interns in 2022"]
     },
     {
       "name": "Pe'er Lab, Columbia University",
       "position": "Undergraduate Researcher",
-      "startDate": "Jan 2022",
-      "endDate": "May 2022",
+      "date": "Spring 2022",
       "highlights": ["Hierarchical learning models in hyperbolic topologies for protein discovery"]
     },
     {
       "name": "Broad Institute of MIT and Harvard",
       "position": "Broad Summer Research Student",
-      "startDate": "Jun 2021",
-      "endDate": "Aug 2021",
+      "date": "Summer 2021",
       "highlights": ["Statistical analysis of genes implicated in cancer and depression incidence"]
     },
     {
       "name": "Yao Lu, Columbia University",
       "position": "Laidlaw Scholar",
-      "startDate": "May 2021",
-      "endDate": "Jun 2021",
+      "date": "Summer 2021",
       "highlights": ["Oral histories of the impact of COVID-19 on the transgender/nonbinary Chinese-American community"]
     },
     {
       "name": "Bin Xu, Columbia University",
       "position": "Undergraduate Researcher",
-      "startDate": "Sep 2020",
-      "endDate": "May 2021",
+      "date": "2020 - 2021",
       "highlights": ["Cultured cerebral organoids with dystonia knock-outs. Collected mRNA-seq data, compared to schizophrenia-knock-out organoids."]
     }
   ],
@@ -153,7 +145,7 @@
       "title": "Laidlaw Scholar",
       "date": "2021",
       "awarder": "Laidlaw Foundation",
-      "summary": "Competitive fellowship (~1.5%) funding students at select universities. First-year focus on leadership development (sociology research with trans Chinese-Americans). Second-year focus on leadership application (Queer in AI activism)"
+      "summary": "Competitive fellowship (~1.5%) funding students at select universities. First-year focus on leadership development (sociology research). Second-year focus on leadership application (Queer in AI)"
     }
   ],
   
