@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I am very passionate about teaching and open-source resources! I am currently teaching the Putnam Seminar in the Columbia Math Department for the 5th time. This seminar is focused on getting students who are beginners in the Putnam up to the intermediate level. My lecture notes will be slowly updated in the Projects page -- feel free to use them! 
 
-Organize your courses by years, topics, or universities, however you like!
+I am also currently leading a seminar on [Neural Manifolds](https://docs.google.com/document/d/1W2OmavEZsPOZZyrbJDwhcxBZbf8_zsxNIPr5ZmE1jRk/edit?usp=sharing) through the Theoretical Computer Science program. In the Fall, through the same program, I lead a seminar on [Theoretical Neuroscience and Deep Learning Theory](https://columbia-ugtcs.github.io/fall2023.html). 
+
+In the past, I also TA'd graduate-level Artificial Intelligence (COMS4701) at Columbia for 3 semesters, as well as a workshop on Introduction to Proofs at Columbia for 2 semesters.
