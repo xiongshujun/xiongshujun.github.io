@@ -12,9 +12,12 @@ My first arrangement with Columbia Pops was in Fall 2022. I chose Sound Euphoniu
 
 The piece is divided into an introduction (up to C), the first half of the concerto theme (up to E), Dream Solister (up to I), and the second half of the concerto theme (until the end). Notably, we did not have any euphoniums that semester, so I placed the core euphonium themes into the 1st French Horn part. This ended up thinning out the horn section too much, so if possible, please move that part into your euphonium section.
 
+# Sheet Music
 Sheet music is available below in addition to ideal orchestration. The numbers indicate how many musicians we had that semester on each part (and is thus what I wrote for), but can be adjusted to your liking.
+
 [Score](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6.pdf)
 
+## Winds
 [Piccolo](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Piccolo.pdf) -- 1 (ideally as piccolo, but can be played on flute)
 [Flute_1](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Flute_1.pdf) -- 2
 [Flute_2](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Flute_2.pdf) -- 2
@@ -27,6 +30,7 @@ Sheet music is available below in addition to ideal orchestration. The numbers i
 [Alto_Sax_2](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Alto_Saxophone_2.pdf) -- 2
 [Tenor_Sax](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Tenor_Saxophone.pdf) -- 1
 
+## Brass
 [Trumpet_1](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Bb_Trumpet_1.pdf) -- 2
 [Trumpet_2](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Bb_Trumpet_2.pdf) -- 2
 [Horn_1](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Horn_in_F_1.pdf) -- 1 (ideally 2)
@@ -34,6 +38,7 @@ Sheet music is available below in addition to ideal orchestration. The numbers i
 [Trombone_1](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Trombone_1.pdf) -- 2
 [Trombone_2](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Trombone_2.pdf) -- 2
 
+## Strings
 [Violin_1](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Violin_1.pdf) -- 8
 [Violin_2](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Violin_2.pdf) -- 8
 [Viola](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Viola.pdf) -- 4 (ideally 6 to 8)
@@ -42,6 +47,8 @@ Sheet music is available below in addition to ideal orchestration. The numbers i
 [Contrabass](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Contrabass.pdf) -- 1 during Dream Solister, 2 otherwise (ideally 2 throughout)
 [Electric_Bass](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Electric_Bass.pdf) -- 1 during Dream Solister
 
+
+## Percussion
 [Drumset](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Drumset.pdf) -- 1 during Dream Solister
 [Auxillary](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Assorted_Percussion.pdf) (Sus. Cymbal, Crash Cymbal, Triangle, Metal Wind Chimes, Grand Chimes) -- 2, divided into the "Assorted Percussion" part, although this can be divided in all up to 5 percussionists
 [Glockenspiel](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Glockenspiel.pdf) -- 1
@@ -52,9 +59,9 @@ Sheet music is available below in addition to ideal orchestration. The numbers i
 
 To listen to what it sounds like in a real orchestra, Columbia Pops's performance can be found [here](https://www.youtube.com/watch?v=3fQWwQVOLoY&ab_channel=ColumbiaPops). In addition, the core theme of the piece is condensed into a Debussy-esque piano arrangement here. 
 
-Musescore3 file is available here. Unfortunately for most people, Musescore3 is my preferred arranging apparatus (not Sibelius or Musescore4) so please bear with the cumbersome playback. 
+The usescore3 file is available [here](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6.mscz). Unfortunately for most people, Musescore3 is my preferred arranging apparatus (not Sibelius or Musescore4) so please bear with the cumbersome playback. 
 
-Rehearsal Notes
+# Rehearsal Notes
 
 The viola part at A is really annoying. While it is advisable to conduct in 4 to keep it constant with the surrounding sections, the viola part is really playing in 6 over the 12/8 bar. I recommend singing it to them and it'll make a lot of sense (check the recording for what I'm going for).
 
@@ -62,8 +69,7 @@ Dream Solister can be conducted in 2 or 4 depending on your feel. The drumkit ca
 
 Cymbals at O are on the off-beats, which is crucial. Ideally the Grand Chimes also play out a lot here (unfortunately, we didn't have access to any). A mic'd piano is advisable throughout the piece in order to double that effect, but also to bring out the solo at the beginning of the piece. On that note, the piano solo at the beginning is rubato, so cue just the downbeat of each measure and let them play to their hearts content.
 
-
-Reflections
+# Reflections
 
 I'm not super happy with the Dream Solister section in the middle; I overloaded the harmonies at the beginning and end of the section and the melody is hard to bring out because of that. The brass is also playing really, really high (a bad habit of mine) and it is advisable to take it down an octave. In addition, the trumpet-trombone duet attempts to mimic a euphonium-like sound but it doesn't work very well. I would swap this out for a clarinet/oboe and bassoon.
 
