@@ -17,6 +17,9 @@ This arrangement also uses Shakuhachi (played by one of the second flutes, altho
 ## Sheet Music
 Sheet music is available below. The numbers indicate how many musicians we had that semester on each part (and is thus what I wrote for), but can be adjusted to your liking. The auxillary percussion section is... poorly planned out. This piece is very percussion heavy, however, so do your best! Priorities are on bass drum (taiko if you can swing it!), piano, wood block, triangle, piano, and marimba. Ideally have everyone though: each part has the percussion feature at some point in the piece. The marimba part in particular is a bit tortuous, so another piano doubling it if necessary is okay.
 
+[Score](https://xiongshujun.github.io/assets/pdf/music/Okami_v6.pdf)
+[Marked Score](https://xiongshujun.github.io/assets/pdf/music/Okami-v6_Marked.pdf) -- Light green for melody, light blue for bass, pink for ornamentation, yellow for primary harmony. All other shades for various kinds of harmonies that should be given attention.
+
 ### Winds
 [Piccolo](https://xiongshujun.github.io/assets/pdf/music/Okami_v6-Piccolo.pdf) -- 1
 
@@ -93,10 +96,16 @@ Sheet music is available below. The numbers indicate how many musicians we had t
 A performance by Columbia Pops can be found [here](https://www.youtube.com/watch?v=3fQWwQVOLoY&ab_channel=ColumbiaPops). Special thank you to soloists Nithin Chilakapati (Piccolo), Cheryl Yan (Shakuhachi), Emma Braunberger (English Horn), Matthew Kang (Clarinet 1), and Camilo Alvarez (Euphonium)!
 
 ## Rehearsal Notes
+Key signatures aside, this piece is pretty easy! The Reset theme gets passed around different winds (and trumpet I guess) in a 4 part harmony so it's pretty easy to get a grasp on things. One thing to note is that it sounds cooler if the last beat of m. 206 (pickup to R) is split into two long notes to draw out the final chorus that comes at R (literally everyone is playing at R!). Rehearsing P and R by the different groups of harmonies is very useful to make the character shine. Refer to the marked score for reference! At R, Flutes (and Piccolo, have the Piccolo double the flute part) should blast as loud as they can to fly over the thick harmony and melodies.
 
-The piccolo solo is on a separate sheet. On the score and everyone else's part, the solo occupies 2 measures written. However, the solo itself is free-tempo, so don't conduct and let the piccolo show off!
+The piece starts off with the piccolo and the euphonium trading lines followed by a piccolo solo. The piccolo solo is on a separate sheet. On the score and everyone else's part, the solo occupies 2 measures written. However, the solo itself is free-tempo, so don't conduct and let the piccolo show off!
 
-Trumpets should drop an octave in Ryoshima Coast; it's really high so if they have other pieces they need their chops for this part is fine to take down an octave.
+Oboe should play quite load throughout C and into D. The fortepianos should be highly contrasted. Trumpets should drop an octave in Ryoshima Coast; it's really high so if they have other pieces they need their chops for this part is fine to take down an octave.During the English horn solo at H, the strings who are playing should be solo parts unless the English horn is mic'd. I didn't underestimated how soft an English horn is (and how loud strings are...) so this is the only way to have it heard. Trombones coming in afterwards should blast it! The end of Ryoshima Coast is "wolf howL" by the Oboe, but I recommend putting it on trumpet or mellophone instead.
+
+For Rising Sun, at N1, each half note gets held while the Triangle plays underneath.
+
+I highly recommend mic-ing the piano; there are many phrases that are piano solos (to emulate the harp and koto from the original score) and it's hard to hear in an orchestra without a mic. Piano and guitar chords should ring like chimes throughout!
 
 
 ## Reflections
+I would have moved the Oboe's transition note at the end of Ryoshima Coast to the trumpet. I would have doubled shakuhachi stuff into clarinet or oboe in Rising Sun because it's pretty soft. I think the ending is a bit too thick on the harmony and it should be more concentrated on one timbre (I'm thinking brass and upper strings) instead of spread across the 1st part of each section. The bass part throughout Reset can be more interesting, the ornamented marimba/piano parts doubled further to really bring them out (they're defining!). Overall I'm very happy with this, especially the descending notes in P1 (my favorite part!) and I hope you all enjoy!
