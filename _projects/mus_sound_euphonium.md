@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sound Euphonium (Columbia Pops)
-description: Open access arrangement of Sound Euphonium for Columbia Pops with notes.
+description: Open access arrangement of Sound Euphonium (Concerto, Dream Solister) with notes.
 img: 
 importance: 1
 category: creative
@@ -86,9 +86,9 @@ Sheet music is available below in addition to ideal orchestration. The numbers i
 
 To listen to what it sounds like in a real orchestra, Columbia Pops's performance can be found [here](https://www.youtube.com/watch?v=3fQWwQVOLoY&ab_channel=ColumbiaPops). In addition, the core theme of the piece is condensed into a Debussy-esque piano arrangement here. 
 
-The usescore3 file is available [here](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6.mscz). Unfortunately for most people, Musescore3 is my preferred arranging apparatus (not Sibelius or Musescore4) so please bear with the cumbersome playback. 
+The Musescore3 file is available [here](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6.mscz). Unfortunately for most people, Musescore3 is my preferred arranging apparatus (not Sibelius or Musescore4) so please bear with the cumbersome playback. 
 
-# Rehearsal Notes
+## Rehearsal Notes
 
 The viola part at A is really annoying. While it is advisable to conduct in 4 to keep it constant with the surrounding sections, the viola part is really playing in 6 over the 12/8 bar. I recommend singing it to them and it'll make a lot of sense (check the recording for what I'm going for).
 
@@ -96,7 +96,7 @@ Dream Solister can be conducted in 2 or 4 depending on your feel. The drumkit ca
 
 Cymbals at O are on the off-beats, which is crucial. Ideally the Grand Chimes also play out a lot here (unfortunately, we didn't have access to any). A mic'd piano is advisable throughout the piece in order to double that effect, but also to bring out the solo at the beginning of the piece. On that note, the piano solo at the beginning is rubato, so cue just the downbeat of each measure and let them play to their hearts content.
 
-# Reflections
+## Reflections
 
 I'm not super happy with the Dream Solister section in the middle; I overloaded the harmonies at the beginning and end of the section and the melody is hard to bring out because of that. The brass is also playing really, really high (a bad habit of mine) and it is advisable to take it down an octave. In addition, the trumpet-trombone duet attempts to mimic a euphonium-like sound but it doesn't work very well. I would swap this out for a clarinet/oboe and bassoon.
 
