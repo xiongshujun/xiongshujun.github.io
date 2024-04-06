@@ -18,6 +18,7 @@ This arrangement also uses Shakuhachi (played by one of the second flutes, altho
 Sheet music is available below. The numbers indicate how many musicians we had that semester on each part (and is thus what I wrote for), but can be adjusted to your liking. The auxillary percussion section is... poorly planned out. This piece is very percussion heavy, however, so do your best! Priorities are on bass drum (taiko if you can swing it!), piano, wood block, triangle, piano, and marimba. Ideally have everyone though: each part has the percussion feature at some point in the piece. The marimba part in particular is a bit tortuous, so another piano doubling it if necessary is okay.
 
 [Score](https://xiongshujun.github.io/assets/pdf/music/Okami_v6.pdf)
+
 [Marked Score](https://xiongshujun.github.io/assets/pdf/music/Okami-v6_Marked.pdf) -- Light green for melody, light blue for bass, pink for ornamentation, yellow for primary harmony. All other shades for various kinds of harmonies that should be given attention.
 
 ### Winds
