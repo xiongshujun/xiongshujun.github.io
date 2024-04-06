@@ -84,7 +84,7 @@ Sheet music is available below in addition to ideal orchestration. The numbers i
 
 [Guitar](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6-Classical_Guitar.pdf) -- 1 (I'm not very happy with this part, and would rather have it on harp)
 
-To listen to what it sounds like in a real orchestra, Columbia Pops's performance can be found [here](https://www.youtube.com/watch?v=3fQWwQVOLoY&ab_channel=ColumbiaPops). In addition, the core theme of the piece is condensed into a Debussy-esque piano arrangement here. 
+To listen to what it sounds like in a real orchestra, Columbia Pops's performance can be found [here](https://www.youtube.com/watch?v=3fQWwQVOLoY&ab_channel=ColumbiaPops). In addition, the core theme of the piece is condensed into a Debussy-esque piano arrangement [here]((https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_Theme_Debussy.pdf)). 
 
 The Musescore3 file is available [here](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6.mscz). Unfortunately for most people, Musescore3 is my preferred arranging apparatus (not Sibelius or Musescore4) so please bear with the cumbersome playback. 
 
