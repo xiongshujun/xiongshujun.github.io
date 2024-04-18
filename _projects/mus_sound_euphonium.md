@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sound Euphonium (Columbia Pops)
-description: Open access arrangement of Sound Euphonium (Concerto, Dream Solister) with notes.
+description: Open access arrangement of Sound Euphonium (Concerto, Dream Solister).
 img: 
 importance: 1
 category: creative
@@ -89,12 +89,20 @@ To listen to what it sounds like in a real orchestra, Columbia Pops's performanc
 The Musescore3 file is available [here](https://xiongshujun.github.io/assets/pdf/music/Sound_Euphonium_v6.mscz). Unfortunately for most people, Musescore3 is my preferred arranging apparatus (not Sibelius or Musescore4) so please bear with the cumbersome playback. 
 
 ## Rehearsal Notes
+The piece begins with a piano solo (and a dotted half note on F. Horn 1/Euphonium) with the flutes playing a thin overlaying line on top. It's very rubato, but the downbeat of each measure should be given to the pianos. In the measure before A, begin conducting in 4. The basses come in after 2 beats (i.e. basses come in 2 beats before A), then violas + cellos come in on A.
 
 The viola part at A is really annoying. While it is advisable to conduct in 4 to keep it constant with the surrounding sections, the viola part is really playing in 6 over the 12/8 bar. I recommend singing it to them and it'll make a lot of sense (check the recording for what I'm going for).
 
-Dream Solister can be conducted in 2 or 4 depending on your feel. The drumkit carries the tempo here, and I would highly recommend someone play the drum part. If necessary, this can be split into snare, bass drum, and standing crash cymbal or hi-hat. 
+At C and I, there's a transition from 6/8 bars in 3 to 2/4 bars conducted in 2. All the 12/8 sections after C are conducted in 4. Transitioning from 4/4 to 12/8 sections, conduct in the same tempo!
+
+At D1, the patterns here are many-overlayed entrances for 2ish measures each that arc across up then down. When you get to the top of each phrase, start dropping in volume so that the next phrase can crest. Think of it like ocean waves washing over and over again!
+
+Dream Solister can be conducted in 2 or 4 depending on your feel (I started out in 4 then at F, I transitioned to in 2 until the end of Dream Solister). The drumkit carries the tempo here, and I would highly recommend someone play the drum part. If necessary, this can be split into snare, bass drum, and standing crash cymbal or hi-hat. 
 
 Cymbals at O are on the off-beats, which is crucial. Ideally the Grand Chimes also play out a lot here (unfortunately, we didn't have access to any). A mic'd piano is advisable throughout the piece in order to double that effect, but also to bring out the solo at the beginning of the piece. On that note, the piano solo at the beginning is rubato, so cue just the downbeat of each measure and let them play to their hearts content.
+
+Whenever violins/violas have the little repeated dotted staccatos (m. 43 (D, 2nd violins + violas) and m. 170 (M, violins 1 + 2)), play like raindrops dancing on the rooftop. Same for Bass Clarinet and Bassoon at N.
+
 
 ## Reflections
 
