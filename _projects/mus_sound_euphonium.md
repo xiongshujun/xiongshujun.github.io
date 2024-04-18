@@ -8,7 +8,7 @@ category: creative
 related_publications: false
 ---
 
-My first arrangement with Columbia Pops was in Fall 2022. I chose Sound Euphonium, an anime which was influential on my growth as a musician in high school. I wrote this over the summer as I began my work as the Music Director for the orchestra.
+My first arrangement with Pops was in Fall 2022. I chose Sound Euphonium, an anime which was influential on my growth as a musician in high school. I wrote this over the summer as I began my work as the Music Director for the orchestra.
 
 The piece is divided into an introduction (up to C), the first half of the concerto theme (up to E), Dream Solister (up to I), and the second half of the concerto theme (until the end). Notably, we did not have any euphoniums that semester, so I placed the core euphonium themes into the 1st French Horn part. This ended up thinning out the horn section too much, so if possible, please move that part into your euphonium section.
 

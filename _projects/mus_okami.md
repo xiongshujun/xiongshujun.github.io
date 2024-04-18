@@ -8,7 +8,7 @@ category: creative
 related_publications: false
 ---
 
-This was my second orchestral arrangement for Columbia Pops. Okami is what got me into arranging way back in middle school so it was very moving to get to conduct it and introduce people to the game! I'm especially proud of the Reset section. In the original piece, the same theme is repeated with variations in harmony and ornamentation line over 5-10 minutes; here, I managed to condense it down to about 70ish measures and there contrasting harmonies sound absolutely gorgeous.
+This was my second orchestral arrangement for Pops. Okami is what got me into arranging way back in middle school so it was very moving to get to conduct it and introduce people to the game! I'm especially proud of the Reset section. In the original piece, the same theme is repeated with variations in harmony and ornamentation line over 5-10 minutes; here, I managed to condense it down to about 70ish measures and there contrasting harmonies sound absolutely gorgeous.
 
 The beginning of the piece is a long piccolo solo (after a euphonium-based introduction) based on a mixture of the Reset theme and the dizi solo in 牧民新歌 (more on that in a future post!). A brief introduction of the main theme of Reset follows, with the melody moving through the winds, before a caesura into Ryoshima Coast (apologies for the key signature), then Rising Sun,and finally returning to the grand version of Reset. 
 
