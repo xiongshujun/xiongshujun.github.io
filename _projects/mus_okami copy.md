@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Okami (Columbia Pops)
-description: Open access arrangement of a medley from Okami (Ryoshima Coast, Rising Sun, Reset -- Thank You)
+description: Article published
 img: 
 importance: 1
 category: creative
