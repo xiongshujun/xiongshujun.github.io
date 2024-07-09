@@ -1,0 +1,29 @@
+---
+layout: page
+title: A Defense of Technical Debate
+description: Why should you learn technical debate? Part 0 of a series on technical debate.
+img: 
+importance: 1
+category: debate
+related_publications: false
+---
+
+I learned about technical debate my sophomore year of high school and immediately fell in love. I spent the rest of my debate career doing technical debate every time I got a tech judge, coming up with the weirdest Theory and Kritik arguments I could, and even now my favorite kinds of debate to judge are super dense multi-layer debates between case, Theory, and Kritiks.
+
+Now several years removed from competing, in my professional life I mostly do applied math in neuroscience. Superficially, this is pretty far removed from the legalist content of Theory and the philosophical/political science-y content of Kritiks. But there is a very rich connection between the processes of technical debate and with mathematics and science research. While many of my friends in debate have gone on to pursue the standard stereotypical "debate" careers (consulting, government policy, etc.), many others have gone on to pursue mathematical and scientific careers. At least for me, technical debate has been incredibly vital to my growth far beyond my involvement as a competitor in ways that I wouldn't have thought about had I only done traditional case debate.
+
+Part of the reason I want to write these articles is to put forward a set of different perspectives on how to think about and creating technical arguments. My hope is that this will provide a supplement or starting point for students to think about technical debate and break down the imposing perception these arguments have. I truly love technical debate and I hope that more people can find beauty in it as I have.
+
+Another reason why I want to write these articles is for myself. Of course, a lot of these ideas have been bouncing in my head as I spent more time coaching and judging in college. But -- as interesting structures often do -- the utility of thinking about technical debate has become useful as someone doing math and science research. As I start graduate school, I wanted to root down how I view research in the language I probably know best: nerding out on the intricacies of technical debate. I hope to return to this series after more years of coaching and doing research and see how my views on these two halves of my life have evolved. This is probably less useful for debate students referring to these articles, but I hope that it sheds some light on the most interesting (to me) parts of debate to other scientists and mathematicians. 
+
+Ultimately, though, most of this is driven by my love for technical debate and a desire for more people to be able to participate in its fruits. There is an incredible world of argumentation out there that is unfortunately difficult to learn, both due to structural barriers (I didn't have consistent coaching in high school and it was difficult enough to find resources on my own) and because it is simply a different way of thinking about debate than what you would find from just reading the news or scouring articles for case arguments.
+
+The reason why technical debate is tricky is not (really) about the esotericism of its contents. Arguments are made by students like everyone else. Maybe a bit nerdier if they spend their weekends reading Foucault, but certainly not a graduate scholar. Conversely, the vast majority of tech judges are not philosophers or jurists, and even if they were, it would not help the evaluation of these arguments. This is because the arguments in Theory and Kritiks are not based on the rigorous nuances of philosophy but rather an application of a rough understanding into the rigorous nuances of what debate and argumentation entails. 
+
+Counterintuitively, this is also why you shouldn't be scared of technical debate. The skills that are necessary to get good at technical debate are the exact same as the skills that are necessary to get good at traditional case debate. The logic of argumentation remains constant regardless of what kind of argument is being made.
+
+The real challenge of learning technical debate is getting a grasp of how arguments work. The reason why this isn't really taught when you learn case debate is because we are, in society, inundated by policy (read: case) discussions, to the point where the ways in which arguments are formed, in the news, in political speeches, in policy reports, become almost instinctual and natural. But there is nothing inherently natural about these arguments -- certainly a baby has no grasp of their structure. The challenge of technical debate is to strip away these instincts and work with what arguments are in their barest form.
+
+Just as Newton allowed us to take the natural motion of a falling apple to predict the motion of the planets, and as Mendel allowed us to take the natural transmission of traits to understand the fundamental functions of biology, (and as Galois allowed us to take the natural movement of polynomials into the abstraction of group theory), the process of learning the structure of argumentation allows us to reach the conclusions of technical debate. Learning these structures, regardless of whether you end up using Theory or Kritiks, will improve your understanding of debate, communication, and argumentation in general. Moreover, practicing the ability to abstract the fundamentals of argumentation away from the complexities of case debating is particularly useful in both math and science. 
+
+This is the real challenge of technical debate, and through this series, I hope to provide a framework on which this language becomes legible.
